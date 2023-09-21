@@ -1,0 +1,25 @@
+.content{
+    width: 100%;
+    background-color: #131313;
+}
+h2{
+    margin-left: 60px;
+    margin-top: 20px;
+    color: #FF3D00;
+}
+p, h1{
+    color: #fff;
+}
+.tag a{
+    color: #fff;
+    padding: 10px;
+}
+.explore{
+    margin-top: 50px;
+}
+#anime{
+    color: #FF3D00;
+}
+.tag{
+    margin-left: 90px;
+}

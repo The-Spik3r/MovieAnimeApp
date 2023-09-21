@@ -1,0 +1,71 @@
+.banner img{
+    width: 100%;
+    height: 800px;
+}
+
+.play{
+    background-color: #131313;
+}
+.suppose{
+    position: absolute;
+    background-color: #010101c1;
+    text-align: center;
+    width: 35%;
+    height: 100%;
+    right: 0;
+}
+.suppose2{
+    width: 100%;
+    position: absolute;
+    top: 40%;
+}
+.timeDisplayUser{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.suppose h3{
+    color: green;
+}h1{
+    color: #FF3D00;   
+}
+.progressbar{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 370px;
+    height: 7px;
+   background: rgba(217, 217, 217, 0.19);
+    background: linear-gradient(to right, #FF3D00 50%, rgba(217, 217, 217, 0.19) 50%);
+    border-radius: 15px;
+}
+.keep{
+    margin-top: 40px;
+    background-color: #FF3D00;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    width: 200px;
+    height: 50px;
+}
+.keep:hover{
+    background-color: #C93A00;
+}
+.description{
+    background-color: #00000098;
+    border-radius:60px;
+    position: absolute;
+    bottom: 12px;
+    right: 780px;
+    width: 50%;
+    height: 227px;
+}
+.des p{
+    text-align: center;
+    font-size: 17px;
+}
+.description h3{
+    padding: 35px;
+    color: #FF3D00;
+    font-size: 30px;
+}
